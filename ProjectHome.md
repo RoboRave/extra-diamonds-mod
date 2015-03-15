@@ -1,0 +1,1 @@
+this is a mod that add extra diamonds to minecraft
